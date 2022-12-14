@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.bbbg{
+    background-image: url("https://4kwallpapers.com/images/wallpapers/sunset-moon-river-mountains-gradient-background-peach-4480x2520-2528.jpg");
+    background-size: cover;
+}
+.htxt{
+    color: whitesmoke;
+}
+.hcard{
+    color: #b6b4c2;
+    font-size: 50px;
+    padding: 5px;
+    text-align: center;
+    font-family: Caveat;
+    font-weight: bold;
+    border-style: solid;
+    border-width: 3px;
+    background-color: rgba(236, 139, 241, 0.216);
+    text-decoration: underline;
+}
+.b1card{
+    color: whitesmoke;
+    border-bottom-style:double;
+    border-bottom-width: 3px;
+    border-color: aliceblue;
+}
+.boldimp{
+    font-weight: bold;
+    color: #c7d0d7;
+    font-size: 18px;
+}
+.bflex{
+    justify-content: space-between;
+}
+.bbg{
+    padding: 40px;
+    background-color: rgba(189, 126, 223, 0.455);
+}
+.img{
+    border-radius: 10px;
+    width: 20vw;
+}
+.padd{
+    padding-top: 35px;
+}
+.img1{
+    border-radius:10px;
+    width: auto;
+    height: 100px;
+}
+.bpadd{
+    padding-bottom: 35px;
+}
+.italyimp{
+    font-style: italic;
+    color:lavender;
+}
+.undies{
+    text-decoration: underline;
+}
+.btng{
+    border-width: 0px;
+    border-radius: 25px;
+    background-color: rgb(197, 140, 245);
+    width: 150px;
+    height: 50px;
+}
+.p{
+    padding-top: 8px;
+}
+.mar{
+    margin-left: 500px;
+}
+.ily{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #4f5b67;
+}
+.content{
+    text-decoration: none;
+    display: inline-block;
+    color: darkmagenta;
+}
+.back-4video{
+    position: absolute;
+    left: 570px;
+    top: 0;
+    height: 115px;
+    z-index: -1;
+}
+.back-5video{
+    position: absolute;
+    left: 770px;
+    top: 0;
+    height: 115px;
+    z-index: -1;
+}

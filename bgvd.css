@@ -1,0 +1,53 @@
+.bgvd{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+.hcard{
+    color:rgb(224, 183, 242);
+    font-size: 50px;
+    padding: 5px;
+    text-align: center;
+    font-family: Caveat;
+    font-weight: bold;
+    border-style: solid;
+    border-width: 3px;
+    background-color: rgba(248, 173, 252, 0.216);
+    text-decoration: underline;
+}
+.bcard{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aliceblue;
+    font-size: 18px;
+    background-color: rgba(137, 43, 226, 0.251);
+    border-bottom: 4px;
+    border-bottom-style: double;
+    padding: 25px;
+}
+.b1{
+    text-align: left;
+    
+    padding-right: 400px;
+    padding-left: 10px;
+}
+.b3{
+    padding: 57px;
+    border-bottom-width: 0px;
+}
+.butt{
+    background-color: rgb(214, 109, 215);
+    color: rgb(87, 19, 116);
+    width: 150px;
+}
+.imgd{
+    width: auto;
+    height: 200px;
+    margin-right: 200px;
+    border-radius: 10px;
+}
+.flexing{
+    display: flex;
+    direction: rtl;
+    justify-content: flex-start;
+}
